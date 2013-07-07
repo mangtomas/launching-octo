@@ -1,0 +1,373 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"lo",
+				"login"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 150.0,
+		"selected_items":
+		[
+			[
+				"isp",
+				"Snippet: isPost"
+			],
+			[
+				"ispo",
+				"Snippet: isPost"
+			],
+			[
+				"is",
+				"Snippet: isPost"
+			],
+			[
+				"fun",
+				"Snippet: cFunction"
+			],
+			[
+				"isl",
+				"Snippet: isLoginFalse"
+			],
+			[
+				"islo",
+				"Snippet: isLoginTrue"
+			],
+			[
+				"are",
+				"Snippet: aRender"
+			],
+			[
+				"cr",
+				"Snippet: cRender"
+			],
+			[
+				"wF",
+				"Snippet: viewForeach"
+			],
+			[
+				"rend",
+				"Snippet: render"
+			],
+			[
+				"ren",
+				"Snippet: render"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"tem",
+				"Snippet: template"
+			],
+			[
+				"temp",
+				"Snippet: template"
+			],
+			[
+				"cf",
+				"Snippet: cFunction"
+			],
+			[
+				"func",
+				"Snippet: function"
+			],
+			[
+				"dea",
+				"Snippet: defaultClass"
+			],
+			[
+				"defa",
+				"Snippet: defaultClass"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"rea",
+				"Snippet: crudRead"
+			],
+			[
+				"re",
+				"Snippet: crudRead"
+			],
+			[
+				"del",
+				"Snippet: crudDelete"
+			],
+			[
+				"delte",
+				"Snippet: crudDelete"
+			],
+			[
+				"create",
+				"Snippet: crudCreate"
+			],
+			[
+				"cre",
+				"Snippet: crudCreate"
+			],
+			[
+				"update",
+				"Snippet: crudUpdate"
+			],
+			[
+				"upda",
+				"Snippet: crudUpdate"
+			],
+			[
+				"udpa",
+				"Snippet: crudUpdate"
+			],
+			[
+				"updat",
+				"Snippet: crudUpdate"
+			],
+			[
+				"test",
+				"Snippet: test"
+			],
+			[
+				"read",
+				"Snippet: crudRead"
+			],
+			[
+				"crea",
+				"Snippet: crudCreate"
+			],
+			[
+				"si",
+				"Snippet: POST['…']"
+			],
+			[
+				"functio",
+				"Snippet: function __construct"
+			],
+			[
+				"arra",
+				"Snippet: $… = array (…)"
+			],
+			[
+				"sni",
+				"Snippet: $… = array (…)"
+			],
+			[
+				"edit",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"functo",
+				"Snippet: Function Signature"
+			],
+			[
+				"function",
+				"Snippet: Function"
+			],
+			[
+				"Read",
+				"Snippet: crudRead"
+			],
+			[
+				"defaul",
+				"Snippet: defaultClass"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/octox/public/css/admin/bootstrap.css",
+		"/D/test.html",
+		"/C/xampp/htdocs/octox/application/controllers/xadmin/account.php",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/isPost.sublime-snippet",
+		"/C/xampp/htdocs/octox/application/models/validate.php",
+		"/C/xampp/htdocs/octox/public/css/admin/loader.css",
+		"/C/xampp/htdocs/octox/application/views/xadmin/common/footer_guest.php",
+		"/C/xampp/htdocs/octox/public/css/admin/default.css",
+		"/C/xampp/htdocs/octox/application/views/xadmin/common/header_guest.php",
+		"/C/xampp/htdocs/octox/application/views/login_.php",
+		"/C/xampp/htdocs/octox/application/views/forgot.php",
+		"/C/xampp/htdocs/octox/application/views/xadmin/account_settings.php",
+		"/C/xampp/htdocs/octox/application/libraries/form.php",
+		"/C/xampp/htdocs/octox/application/config/autoload.php",
+		"/C/xampp/htdocs/octox/application/controllers/main.php",
+		"/E/Wise/PHP-Basic-MVC-Framework-master/PHP-Basic-MVC-Framework-master/application/registry.php",
+		"/E/Wise/PHP-Basic-MVC-Framework-master/PHP-Basic-MVC-Framework-master/application/baseController.php",
+		"/E/Wise/PHP-Basic-MVC-Framework-master/PHP-Basic-MVC-Framework-master/application/baseModel.php",
+		"/E/Wise/PHP-Basic-MVC-Framework-master/PHP-Basic-MVC-Framework-master/application/router.php",
+		"/E/PHP-File-Download-master/FileDownload.php",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/isLoginTrue.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/isLoginFalse.sublime-snippet",
+		"/C/xampp/htdocs/octox/application/controllers/xadmin/api.php",
+		"/C/xampp/htdocs/octox/application/helpers/form.php",
+		"/C/xampp/htdocs/octox/application/helpers/info.php",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/aRender.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/viewForeach.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/template.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/render.sublime-snippet",
+		"/E/octox/application/controllers/xadmin/dashboard_.php",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/cFunction.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/defaultClass.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/crudRead.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/crudUpdate.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/crudCreate.sublime-snippet",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/crudDelete.sublime-snippet",
+		"/C/xampp/htdocs/octox/application/models/crud.php",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/test.sublime-snippet",
+		"/C/Program Files/Sublime Text 2/Pristine Packages/Default.sublime-package",
+		"/C/xampp/htdocs/octox/application/views/xadmin/role_create.php",
+		"/C/xampp/htdocs/octox/application/controllers/xadmin/role.php",
+		"/C/Users/shadow/AppData/Roaming/Sublime Text 2/Packages/User/function.sublime-snippet"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jmethods",
+			"input[type=\"text\"]",
+			"width",
+			"borde",
+			"input[type=\"text\"",
+			"input[type=\"rext\"]",
+			"SDFSKJFHK"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"cru",
+				"application/models/crud.php"
+			],
+			[
+				"crea",
+				"application/views/xadmin/role_create.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true
+}
